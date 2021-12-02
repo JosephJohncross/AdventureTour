@@ -99,8 +99,8 @@ section {
   background: #000;
   width: 100%;
   z-index: 1000000;
-  -webkit-transition: 10s ease-out;
-  transition: 10s ease-out;
+  -webkit-transition: 6s ease-out;
+  transition: 6s ease-out;
 }
 
 .page-loader.fade-out {
